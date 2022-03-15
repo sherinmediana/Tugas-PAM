@@ -15,6 +15,11 @@ export const MASKAPAI = {
         maskapai_nama: "Lion Air",
         maskapai_logo: "LION", 
     },
+    BAR:{
+        maskapai_id: "BAR",
+        maskapai_nama: "Batik Air",
+        maskapai_logo: "batik air", 
+    },
 };
 
 export const BANDARA = {
