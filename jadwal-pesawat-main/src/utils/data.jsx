@@ -3,17 +3,17 @@ export const MASKAPAI = {
     GRD:{
         maskapai_id: "GRD",
         maskapai_nama: "Garuda Airline",
-        maskapai_logo: "keren", 
+        maskapai_logo: "Garuda", 
     },
     SJW:{
         maskapai_id: "SJW",
-        maskapai_nama: "Seriwijaya Air",
-        maskapai_logo: "cool", 
+        maskapai_nama: "Sriwijaya Air",
+        maskapai_logo: "RU-YI", 
     },
     LIO:{
         maskapai_id: "LIO",
         maskapai_nama: "Lion Air",
-        maskapai_logo: "sugoi", 
+        maskapai_logo: "LION", 
     },
 };
 
